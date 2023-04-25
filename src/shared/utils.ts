@@ -1,0 +1,1 @@
+export const stringToUpperCase = (str: string) => str.toUpperCase();
